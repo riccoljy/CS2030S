@@ -1,0 +1,3 @@
+[submodule "setup-test-riccoljy"]
+	path = setup-test-riccoljy
+	url = https://github.com/riccoljy/CS2030S.git
